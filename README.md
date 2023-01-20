@@ -26,3 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostinasuitt&show_icons=true&locale=en&layout=compact" alt="ghostinasuitt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostinasuitt&show_icons=true&locale=en" alt="ghostinasuitt" /></p>
+
+![Snake animation](https://github.com/Ghostinasuitt/Ghostinasuitt/blob/output/github-contribution-grid-snake.svg)
+
+ https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
